@@ -1,4 +1,4 @@
-# Communication Principles and Practices
+# Team Communication Principles and Practices
 
 This repository outlines a comprehensive set of internal communication guidelines designed to foster transparency, responsiveness, and alignment within teams. It is intended for organizations that value open culture, high execution quality, and emotionally intelligent collaboration.
 
